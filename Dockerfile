@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:3.5
 
 ADD https://github.com/Shopify/ejson/releases/download/1.0.2/linux-amd64 ./
 
